@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: widget-display-filter\n"
+"POT-Creation-Date: 2015-08-03 15:52+0900\n"
+"PO-Revision-Date: 2015-08-03 15:54+0900\n"
+"Last-Translator: Yasunari Enomoto <enomoto@celtislab.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#. Description of the plugin/theme
+msgid "Set the display condition for each widget. Appearance -> Widget Display Filter menu added to the management page."
+msgstr ""
+
+#: ../widget-display-filter.php:68
+msgid "Widget Display Filter"
+msgstr ""
+
+#: ../widget-display-filter.php:138
+msgid "It contains invalid Post ID."
+msgstr ""
+
+#: ../widget-display-filter.php:253
+msgid ""
+"There are invalid characters in Hashtag. Use characters include "
+"Alphanumeric, Hyphens, Underscores."
+msgstr ""
+
+#: ../widget-display-filter.php:478 ../widget-display-filter.php:661
+msgid "Widget"
+msgstr ""
+
+#: ../widget-display-filter.php:479
+msgid "Description"
+msgstr ""
+
+#: ../widget-display-filter.php:506
+msgid "Restore"
+msgstr ""
+
+#: ../widget-display-filter.php:529
+msgid "Hashtag"
+msgstr ""
+
+#: ../widget-display-filter.php:530
+msgid "Desktop Device"
+msgstr ""
+
+#: ../widget-display-filter.php:531
+msgid "Mobile Device"
+msgstr ""
+
+#: ../widget-display-filter.php:532
+msgid "Singular Post ID"
+msgstr ""
+
+#: ../widget-display-filter.php:533
+msgid "Home/Front-page"
+msgstr ""
+
+#: ../widget-display-filter.php:534
+msgid "Archive page"
+msgstr ""
+
+#: ../widget-display-filter.php:535
+msgid "Search page"
+msgstr ""
+
+#: ../widget-display-filter.php:536
+msgid "Attachment page"
+msgstr ""
+
+#: ../widget-display-filter.php:537
+msgid "Static Page"
+msgstr ""
+
+#: ../widget-display-filter.php:538
+msgid "Post : Standard"
+msgstr ""
+
+#: ../widget-display-filter.php:539
+msgid "Post : Image"
+msgstr ""
+
+#: ../widget-display-filter.php:540
+msgid "Post : Gallery"
+msgstr ""
+
+#: ../widget-display-filter.php:541
+msgid "Post : Video"
+msgstr ""
+
+#: ../widget-display-filter.php:542
+msgid "Post : Audio"
+msgstr ""
+
+#: ../widget-display-filter.php:543
+msgid "Post : Aside"
+msgstr ""
+
+#: ../widget-display-filter.php:544
+msgid "Post : Quote"
+msgstr ""
+
+#: ../widget-display-filter.php:545
+msgid "Post : Link"
+msgstr ""
+
+#: ../widget-display-filter.php:546
+msgid "Post : Status"
+msgstr ""
+
+#: ../widget-display-filter.php:547
+msgid "Post : Chat"
+msgstr ""
+
+#: ../widget-display-filter.php:548
+msgid "Post Category"
+msgstr ""
+
+#: ../widget-display-filter.php:549
+msgid "Post Tag"
+msgstr ""
+
+#: ../widget-display-filter.php:552
+msgid "Custom Post : "
+msgstr ""
+
+#: ../widget-display-filter.php:618
+msgid "Delete"
+msgstr ""
+
+#: ../widget-display-filter.php:645
+msgid "Widget Display Filter Settings"
+msgstr ""
+
+#: ../widget-display-filter.php:646
+msgid ""
+"<strong>Hidden Widgets</strong> : Registration widget will no longer be "
+"displayed in <strong>Abailable Widgets</strong>."
+msgstr ""
+
+#: ../widget-display-filter.php:647
+msgid ""
+"<strong>Widgets Display Filter</strong> : Using Hashtag, Make the settings "
+"for the display conditions of Widgets."
+msgstr ""
+
+#: ../widget-display-filter.php:650
+msgid "Hidden Widgets"
+msgstr ""
+
+#: ../widget-display-filter.php:651
+msgid "Widgets Display Filter"
+msgstr ""
+
+#: ../widget-display-filter.php:679
+msgid "Hidden Widget"
+msgstr ""
+
+#: ../widget-display-filter.php:691
+msgid "Hashtag "
+msgstr ""
+
+#: ../widget-display-filter.php:694
+msgid "Hashtag Add"
+msgstr ""
+
+#: ../widget-display-filter.php:695
+msgid ""
+"Please enter a string tag for identification.　[Use characters : "
+"alphanumeric, hyphen, underscore]"
+msgstr ""
+
+#: ../widget-display-filter.php:701
+msgid "Save Settings"
+msgstr ""
+
+#: ../widget-display-filter.php:704
+msgid ""
+"Display conditions of the widget, set from Appearance -> Widgets menu of the "
+"management page."
+msgstr ""
+
+#: ../widget-display-filter.php:705
+msgid ""
+"Very simple. If you enter Hashtag in Widget Title input field, its display "
+"condition is enabled."
+msgstr ""
+
+#: ../widget-display-filter.php:706
+msgid ""
+"Hashtag that can be set for each widget is only one. Between Hashtag and "
+"title should be separated by a space."
+msgstr ""
+
+#: ../widget-display-filter.php:707
+msgid ""
+"By setting the same Hashtag to multiple widgets, you can easily manage as a "
+"group."
+msgstr ""
+
+#: ../widget-display-filter.php:708
+msgid ""
+"* Discrimination of Desktop / Mobile device uses the wp_is_mobile function."
+msgstr ""
+
+#: ../widget-display-filter.php:716
+msgid "Set the display condition by Post ID."
+msgstr ""
+
+#: ../widget-display-filter.php:720 ../widget-display-filter.php:738
+#: ../widget-display-filter.php:757
+msgid "include"
+msgstr ""
+
+#: ../widget-display-filter.php:721 ../widget-display-filter.php:739
+#: ../widget-display-filter.php:758
+msgid "exclude"
+msgstr ""
+
+#: ../widget-display-filter.php:724
+msgid "Please specify Post ID separated by commas."
+msgstr ""
+
+#: ../widget-display-filter.php:734
+msgid "Set the display conditions by post category."
+msgstr ""
+
+#: ../widget-display-filter.php:753
+msgid "Set the display conditions by post tag."
+msgstr ""

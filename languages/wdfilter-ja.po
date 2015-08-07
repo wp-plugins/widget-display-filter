@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: widget-display-filter\n"
+"POT-Creation-Date: 2015-08-03 15:52+0900\n"
+"PO-Revision-Date: 2015-08-03 17:20+0900\n"
+"Last-Translator: Yasunari Enomoto <enomoto@celtislab.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: Japanese\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#. Description of the plugin/theme
+msgid ""
+"Set the display condition for each widget. Appearance -> Widget Display "
+"Filter menu added to the management page."
+msgstr ""
+"ウィジェットに表示条件を設定することが出来ます。（管理ページの 外観メニュー"
+"に 'Widget Display Filter' が追加されます）  "
+
+#: ../widget-display-filter.php:68
+msgid "Widget Display Filter"
+msgstr "Widget Display Filter"
+
+#: ../widget-display-filter.php:138
+msgid "It contains invalid Post ID."
+msgstr "無効なポストIDが含まれています"
+
+#: ../widget-display-filter.php:253
+msgid ""
+"There are invalid characters in Hashtag. Use characters include "
+"Alphanumeric, Hyphens, Underscores."
+msgstr ""
+"ハッシュタグに無効な文字が含まれています。使用可能な文字は、半角英数字、ハイ"
+"フォン（-）、アンダースコア（_）です"
+
+#: ../widget-display-filter.php:478 ../widget-display-filter.php:661
+msgid "Widget"
+msgstr "ウィジェット"
+
+#: ../widget-display-filter.php:479
+msgid "Description"
+msgstr "説明"
+
+#: ../widget-display-filter.php:506
+msgid "Restore"
+msgstr "元に戻す"
+
+#: ../widget-display-filter.php:529
+msgid "Hashtag"
+msgstr "ハッシュタグ"
+
+#: ../widget-display-filter.php:530
+msgid "Desktop Device"
+msgstr "デスクトップデバイス"
+
+#: ../widget-display-filter.php:531
+msgid "Mobile Device"
+msgstr "モバイルデバイス"
+
+#: ../widget-display-filter.php:532
+msgid "Singular Post ID"
+msgstr "ポストID（シングルページ）"
+
+#: ../widget-display-filter.php:533
+msgid "Home/Front-page"
+msgstr "ホーム/フロントページ"
+
+#: ../widget-display-filter.php:534
+msgid "Archive page"
+msgstr "アーカイブページ"
+
+#: ../widget-display-filter.php:535
+msgid "Search page"
+msgstr "検索結果ページ"
+
+#: ../widget-display-filter.php:536
+msgid "Attachment page"
+msgstr "添付ページ"
+
+#: ../widget-display-filter.php:537
+msgid "Static Page"
+msgstr "固定ページ"
+
+#: ../widget-display-filter.php:538
+msgid "Post : Standard"
+msgstr "投稿ページ：標準フォーマット"
+
+#: ../widget-display-filter.php:539
+msgid "Post : Image"
+msgstr "投稿フォーマット：画像"
+
+#: ../widget-display-filter.php:540
+msgid "Post : Gallery"
+msgstr "投稿フォーマット：ギャラリー"
+
+#: ../widget-display-filter.php:541
+msgid "Post : Video"
+msgstr "投稿フォーマット：動画"
+
+#: ../widget-display-filter.php:542
+msgid "Post : Audio"
+msgstr "投稿フォーマット：音声"
+
+#: ../widget-display-filter.php:543
+msgid "Post : Aside"
+msgstr "投稿フォーマット：アサイド"
+
+#: ../widget-display-filter.php:544
+msgid "Post : Quote"
+msgstr "投稿フォーマット：引用"
+
+#: ../widget-display-filter.php:545
+msgid "Post : Link"
+msgstr "投稿フォーマット：リンク"
+
+#: ../widget-display-filter.php:546
+msgid "Post : Status"
+msgstr "投稿フォーマット：ステータス"
+
+#: ../widget-display-filter.php:547
+msgid "Post : Chat"
+msgstr "投稿フォーマット：チャット"
+
+#: ../widget-display-filter.php:548
+msgid "Post Category"
+msgstr "投稿カテゴリー"
+
+#: ../widget-display-filter.php:549
+msgid "Post Tag"
+msgstr "投稿タグ"
+
+#: ../widget-display-filter.php:552
+msgid "Custom Post : "
+msgstr "カスタムポスト："
+
+#: ../widget-display-filter.php:618
+msgid "Delete"
+msgstr "削除"
+
+#: ../widget-display-filter.php:645
+msgid "Widget Display Filter Settings"
+msgstr "ウィジェット表示フィルター設定"
+
+#: ../widget-display-filter.php:646
+msgid ""
+"<strong>Hidden Widgets</strong> : Registration widget will no longer be "
+"displayed in <strong>Abailable Widgets</strong>."
+msgstr ""
+"<strong>隠しウィジェット</strong>：登録すると <strong>利用できるウィジェット"
+"</strong> に表示されなくなります"
+
+#: ../widget-display-filter.php:647
+msgid ""
+"<strong>Widgets Display Filter</strong> : Using Hashtag, Make the settings "
+"for the display conditions of Widgets."
+msgstr ""
+"<strong>ウィジェット表示フィルター</strong>：ハッシュタグを使用して、ウィ"
+"ジェットの表示条件の設定をします"
+
+#: ../widget-display-filter.php:650
+msgid "Hidden Widgets"
+msgstr "隠しウィジェット"
+
+#: ../widget-display-filter.php:651
+msgid "Widgets Display Filter"
+msgstr "ウィジェット表示フィルター"
+
+#: ../widget-display-filter.php:679
+msgid "Hidden Widget"
+msgstr "隠しウィジェット追加"
+
+#: ../widget-display-filter.php:691
+msgid "Hashtag "
+msgstr "ハッシュタグ"
+
+#: ../widget-display-filter.php:694
+msgid "Hashtag Add"
+msgstr "ハッシュタグ追加"
+
+#: ../widget-display-filter.php:695
+msgid ""
+"Please enter a string tag for identification.　[Use characters : "
+"alphanumeric, hyphen, underscore]"
+msgstr ""
+"ハッシュタグとして識別する為の文字列を入力して下さい。［有効文字：半角英数"
+"字, ハイフォン（-）, アンダースコア（_）］"
+
+#: ../widget-display-filter.php:701
+msgid "Save Settings"
+msgstr "設定の保存"
+
+#: ../widget-display-filter.php:704
+msgid ""
+"Display conditions of the widget, set from Appearance -> Widgets menu of the "
+"management page."
+msgstr ""
+"ウィジェットの表示条件は、管理ページの 外観 -> ウィジェット メニューで有効化"
+"しているウィジェットに対して行います"
+
+#: ../widget-display-filter.php:705
+msgid ""
+"Very simple. If you enter Hashtag in Widget Title input field, its display "
+"condition is enabled."
+msgstr ""
+"ウィジェットのタイトル欄にハッシュタグを入力するだけで、そのハッシュタグに関"
+"連付けられた表示条件が有効になります"
+
+#: ../widget-display-filter.php:706
+msgid ""
+"Hashtag that can be set for each widget is only one. Between Hashtag and "
+"title should be separated by a space."
+msgstr ""
+"但し、一つのウィジェットに設定できるハッシュタグは一つだけで、ハッシュタグと"
+"タイトルは空白で区切る必要があります"
+
+#: ../widget-display-filter.php:707
+msgid ""
+"By setting the same Hashtag to multiple widgets, you can easily manage as a "
+"group."
+msgstr ""
+"同じハッシュタグを複数のウィジェットに設定すれば、グループとして簡単に表示条"
+"件を管理することが出来ます"
+
+#: ../widget-display-filter.php:708
+msgid ""
+"* Discrimination of Desktop / Mobile device uses the wp_is_mobile function."
+msgstr ""
+"※デスクトップ/モバイルデバイスの判定は、wp_is_mobile 関数を使用しています"
+
+#: ../widget-display-filter.php:716
+msgid "Set the display condition by Post ID."
+msgstr "ポストIDによる表示フィルター設定"
+
+#: ../widget-display-filter.php:720 ../widget-display-filter.php:738
+#: ../widget-display-filter.php:757
+msgid "include"
+msgstr "含める"
+
+#: ../widget-display-filter.php:721 ../widget-display-filter.php:739
+#: ../widget-display-filter.php:758
+msgid "exclude"
+msgstr "除外する"
+
+#: ../widget-display-filter.php:724
+msgid "Please specify Post ID separated by commas."
+msgstr "ポストIDをカンマ区切りで指定して下さい"
+
+#: ../widget-display-filter.php:734
+msgid "Set the display conditions by post category."
+msgstr "カテゴリーによる表示フィルター設定"
+
+#: ../widget-display-filter.php:753
+msgid "Set the display conditions by post tag."
+msgstr "投稿タグによる表示フィルター設定"
